@@ -4,10 +4,20 @@ body {
     margin: 0 auto;
     display: flex;
     align-items: center;
+    justify-content: center;
     height: 100vh;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
 }
 
 .container {
     background-color: beige;
     padding: 10px;
+    text-align: center;
+    border: 2px solid #000;
+    border-radius: 10px;
 }
