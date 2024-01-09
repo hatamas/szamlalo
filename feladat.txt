@@ -1,0 +1,13 @@
+Feladat:
+Egy számláló oldal készítése, melyben van 2 gomb és közötte egy szám, melynek kiinduló értéke 0.
+Ha a + gombot nyomjuk meg akkor az érték 1-el növekedjen, ha a - gombot akkor pedig csökkenjen.
+Ha az érték pozitív szám, akkor legyen a színe zöld, ha pedig negatív, akkor piros. 
+Ha az érték 0 akkor maradjon fekete.
+
+Fájlok:
+index.html
+style.css
+app.js
+
+A feladat megoldásához használjátok a gitet is. Minden fontosabb fájl elkészülte után egy-egy commitban rögzítsétek az adott verziót.
+A feladat végeztével mindenki töltse fel (push) a megoldást a saját github fiókjába
